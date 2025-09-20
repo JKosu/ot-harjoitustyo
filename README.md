@@ -16,5 +16,5 @@ Tämä ei ole
 
 >Tämä on 
 
-linkki tiedostoon [eka] (https://github.com/JKosu/ot-harjoitustyo/blob/master/laskarit/komentorivi.txt)
+linkki tiedostoon [eka](https://github.com/JKosu/ot-harjoitustyo/blob/master/laskarit/komentorivi.txt)
 
